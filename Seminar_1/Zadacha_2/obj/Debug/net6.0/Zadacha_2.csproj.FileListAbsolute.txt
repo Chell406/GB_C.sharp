@@ -1,0 +1,5 @@
+C:\D\Скачки\GeekBrains\GB.C#\Seminar_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.csproj.AssemblyReference.cache
+C:\D\Скачки\GeekBrains\GB.C#\Seminar_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\Скачки\GeekBrains\GB.C#\Seminar_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.AssemblyInfoInputs.cache
+C:\D\Скачки\GeekBrains\GB.C#\Seminar_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.AssemblyInfo.cs
+C:\D\Скачки\GeekBrains\GB.C#\Seminar_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.csproj.CoreCompileInputs.cache
