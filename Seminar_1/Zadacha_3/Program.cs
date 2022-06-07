@@ -8,7 +8,7 @@ while (true) //бесконечный цикл проверки введенно
     input = Console.ReadLine();
     int.TryParse(input, out number);
     Console.WriteLine(number);
-    
+
     if (number != 0)
     {
         if (number > -1000 && number < 1000) //если число трехзначное
@@ -20,4 +20,5 @@ while (true) //бесконечный цикл проверки введенно
     Console.WriteLine("Веденно неверное значение.");
 }
 
-Console.WriteLine(input[2]);
+//Console.WriteLine(input[2]);
+Console.WriteLine(number % 10);
