@@ -11,5 +11,6 @@
     return digitsSum;
 }
 
-int number = -30782109;
-Console.WriteLine(sumOfDigits(number));
+Console.WriteLine(sumOfDigits(-30782109));
+Console.WriteLine(sumOfDigits(30782109));
+Console.WriteLine(sumOfDigits(46735528));
