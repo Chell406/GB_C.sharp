@@ -2,14 +2,11 @@
 {
     int Temp = number;
     int result = 0;
-    while (true)
+    while (Temp > 0)
     {
+        result *= 10;
         result += Temp % 10;
-        Temp = (Temp - (Temp%10)) / 10;
-        if (Temp > 0)
-            result = result * 10;
-        else
-            break;
+        Temp /= 10;
     }
 
     if (number == result)
@@ -28,7 +25,7 @@ int number;
 // Console.Write("Введите число: ");
 // number = Convert.ToInt32(Console.ReadLine());
 
-number = 89012;
+number = 89098;
 
 if(palindrome(number))
 {
