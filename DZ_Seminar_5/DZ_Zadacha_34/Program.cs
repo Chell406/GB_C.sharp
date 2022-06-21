@@ -31,6 +31,6 @@ int positivCount(int[] mas)
 }
 
 
-int[] massiv = newRandomMass(5);
+int[] massiv = newRandomMass(5); //новый массив на 5 элементов
 outMass(massiv);
 Console.WriteLine(positivCount(massiv));
