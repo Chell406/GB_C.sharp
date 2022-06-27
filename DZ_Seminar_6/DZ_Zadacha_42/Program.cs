@@ -1,4 +1,5 @@
-﻿int _10_to(int input, int osnovanie) {
+﻿int _10_to(int input, int osnovanie)
+{
 
 	int ostatok;
 	ostatok = input % osnovanie;
