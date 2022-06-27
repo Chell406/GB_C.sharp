@@ -1,5 +1,6 @@
 ﻿double  k1, b1, k2, b2;
 double x = 0, y = 0;
+
 Console.WriteLine("Введите b1:");
 b1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите k1:");
