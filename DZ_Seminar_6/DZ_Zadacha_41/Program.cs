@@ -5,7 +5,7 @@
     int countOfZero = 0;
     int _continue = 0;
 
-    if (number == 0)
+    if (number > 0)
         countOfZero++;
 
     while (true)
