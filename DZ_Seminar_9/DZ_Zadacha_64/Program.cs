@@ -1,6 +1,6 @@
-﻿void Natural (int lowLim, int highLim)
+﻿void Natural(int lowLim, int highLim)
 {
-    if(lowLim!=highLim)
+    if (lowLim != highLim + 1)
     {
         Console.Write($"{lowLim} ");
         Natural(lowLim + 1, highLim);
